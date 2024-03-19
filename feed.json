@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "主动放映",
+    "description": "",
+    "home_page_url": "https://zdfy.github.io",
+    "feed_url": "https://zdfy.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "午夜骑手小王"
+    },
+    "items": [
+    ]
+}
